@@ -3,8 +3,8 @@
 
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
--  🚀Apaixonado por aprender e aplicar programação, análise de dados e desenvolvimento web para resolver problemas reais.
-- 🌱 Estou aprendendo sobre Banco de Dados com SQL lite e integrando com python para criação de projetos backend e analise de dados.
+-  🚀Apaixonado por aprender e aplicar programação, análise de dados e desenvolvimento sistemas para resolver problemas reais.
+- 🌱 Estudante de ADS e Desenvolvedor Java/Python em ascensão. Experiência em desenvolvimento de software com foco em POO, integração de APIs e manipulação de bancos de dados SQL. Em constante evolução técnica em Spring Boot, Microserviços e tecnologias de Big Data.
 - 😄 Pronouns:Ele/dele.
 
 <p align="center">
@@ -29,10 +29,14 @@
 <!-- Ícones centralizados -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="60" height="60" />
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="60" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" title="Spring Boot" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60" height="60" />
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" />
   <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" title="Git" />
   <img src="https://devicon-website.vercel.app/api/arduino/original.svg" width="60" height="60" />
 </div>
 
