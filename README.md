@@ -6,6 +6,7 @@
 -  🚀Apaixonado por aprender e aplicar programação, análise de dados e desenvolvimento sistemas para resolver problemas reais.
 - 🌱 Estudante de ADS e Desenvolvedor Java/Python em ascensão. Experiência em desenvolvimento de software com foco em POO, integração de APIs e manipulação de bancos de dados SQL. Em constante evolução técnica em Spring Boot, Microserviços e tecnologias de Big Data.
 - 😄 Pronouns:Ele/dele.
+- emeails de contato: nicolasdeveloper6@gmail.com / nicolas.s.guim67@gmail.com
 
 <p align="center">
   <picture>
